@@ -3,7 +3,7 @@ import numpy as np
 import argparse  #参数设置包
 import imutils  #图像处理包
 import cv2
-import myutils
+import myutils#自定义包
 
 #设置参数
 ap=argparse.ArgumentParser()#创建一个解析对象
